@@ -24,7 +24,7 @@ The purpose of this Yob is to provide a platform for the sale and purchase of ev
 
 First, Clone the repo:
 ```bash 
-git ccone https://github.com/Muhindo-Galien/Yob-Ticketing-dapp
+gh repo clone Munyawera-Fils/Celo-Blockchain-Ticketing-system
 ```
 
 Then,run the development server:
